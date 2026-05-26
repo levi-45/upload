@@ -1131,6 +1131,9 @@
         <plugin name="Gutemine v.2.9-r23 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-systemplugins-gutemine_2.9-r23_all.deb"</url>
         </plugin>
+        <plugin name="HybridIPTV Plugin v.1.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-hybridiptv.deb"</url>
+        </plugin>
         <plugin name="Historyzap v.1.0.44 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-historyzap_1.0.44_all.deb"</url>
         </plugin>
