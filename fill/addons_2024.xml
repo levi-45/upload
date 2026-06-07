@@ -840,9 +840,6 @@
         <plugin name="Scriptexecuter boot h9 v.1.0r4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-scriptexecuter-boot-h9_1.0r4_all.ipk"</url>
         </plugin>
-        <plugin name="Solo Anni 80 v.1.1 r0 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-soloanni80_1.1_r0_all.ipk"</url>
-        </plugin>
         <plugin name="Spinner Selector +300 v.3.3 Mod Lululla">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-spinner-selector_3.3_all.ipk"</url>
         </plugin>
@@ -926,9 +923,6 @@
         </plugin>
         <plugin name="Softcam Key Updater v.6.1-12.20 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-softcamkeyupdater_6.1-12.20_all.deb"</url>
-        </plugin>
-        <plugin name="Solo Anni 80 v.1.0 r3 all">
-            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-soloanni80_1.0_r3_all.deb"</url>
         </plugin>
         <plugin name="S.T.V.C.L. v.1.4 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-stvcl_1.4_all.deb"</url>
