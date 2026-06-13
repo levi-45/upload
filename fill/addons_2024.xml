@@ -1209,6 +1209,9 @@
         <plugin name="Merlinsports v.4.28r1+git0+140d40390c-r1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-merlinsports_4.28r1+git0+140d40390c-r1_all.deb"</url>
         </plugin>
+        <plugin name="Memorganizeiet-1.0_all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-memorganizeiet5_1.0_all.deb"</url>
+        </plugin>
         <plugin name="Mosaic v.2.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-mosaic_2.0_all.deb"</url>
         </plugin>
@@ -1353,6 +1356,9 @@
         <plugin name="The Weather v.5.8 Mod. by iet5 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-theweatheriet5_5.8_all.deb"</url>
         </plugin>
+        <plugin name="Oaweatheriet-1.4B_all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-oaweatheriet5_1.4B_all.deb"</url>
+        </plugin>
         <plugin name="The Xmlupdate v.5.1.4 Mod. by iet5 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-xmlupdatebyiet5_1.4_all.deb"</url>
         </plugin>
@@ -1376,6 +1382,9 @@
         </plugin>
         <plugin name="Userscripts v.7.2-r1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-userscripts_7.2-r1_all.deb"</url>
+        </plugin>
+        <plugin name="Uninstaller-iet-1.0_all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-enigma2uninstaller_1.0_all.deb"</url>
         </plugin>
         <plugin name="Vpn Manager v.1.2.0">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-vpnmanager_1.2.0.deb"</url>
@@ -2445,6 +2454,9 @@
         <plugin name="Curl 7.40.0 r0 mips32el">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/curl_7.40.0-r0_mips32el-nf.ipk"</url>
         </plugin>
+        <plugin name="Cutsclear iet-1.2 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-cutsclear_1.2_all.ipk"</url>
+        </plugin> 
         <plugin name="Device Manager 1.2 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-devicemanager_1.2_all.ipk"</url>
         </plugin>
@@ -2462,6 +2474,9 @@
         </plugin>
         <plugin name="Evg Quicksignal v.1.3 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-evgquicksignal_1.3_all.ipk"</url>
+        </plugin>
+        <plugin name="Quicksignal-iet v.2.1 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-quicksignalmodedbyiet5_2.1_all.ipk"</url>
         </plugin>
         <plugin name="Feedsfinder PY3 v.3.1 Mod. Bahaa all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-feedsfinder_PY3_v3.1_Mod_BY_Bahaa_all.ipk"</url>
@@ -2516,6 +2531,12 @@
         </plugin>
         <plugin name="Lcd4Linux v.4.9 r2 mips32el">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-lcd4linux_4.7-r6_mips32el.ipk"</url>
+        </plugin>
+        <plugin name="Uninstaller iet-1.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-enigma2uninstaller_1.0_all.ipk"</url>
+        </plugin>
+        <plugin name="Memorganizeiet5-1.0 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-memorganizeiet5_1.0_all.ipk"</url>
         </plugin>
         <plugin name="Mac Address Change v.1.0 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-mac-plugin_v1.0_all.ipk"</url>
@@ -2765,6 +2786,9 @@
         </plugin>
         <plugin name="OaWeather v.4.1 all">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-oaweather_4.1_all.ipk"</url>
+        </plugin>
+        <plugin name="OaWeather-iet v.1.4B all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-oaweatheriet5_1.4B_all.ipk"</url>
         </plugin>
         <plugin name="The Weather v.5.8 Mod. by iet5 all ">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-theweatheriet5_5.8_all.ipk"</url>
@@ -3035,6 +3059,18 @@
         </plugin>
         <plugin name="Amazonvod 0.3 r60 arm64">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-amazonvod_0.3-r6.0_arm64.deb"</url>
+        </plugin>
+        <plugin name="Dreamtimesync iet-1.2_all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-systemplugins-dreamtimesync_1.2_all.deb"</url>
+        </plugin>
+        <plugin name="Cutsclear-1.2 all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-cutsclear_1.2_all.deb"</url>
+        </plugin>
+        <plugin name="Quicksignalmodedbyiet-2.1_all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-quicksignalmodedbyiet5_2.1_all.deb"</url>
+        </plugin>
+        <plugin name="Xmlupdatebyiet-1.4_all">
+            <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-xmlupdatebyiet5_1.4_all.deb"</url>
         </plugin>
         <plugin name="Dazndream v.1.1.1 arm64">
             <url>"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-dazndream_1.1.1_arm64.deb"</url>
